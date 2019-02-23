@@ -4,11 +4,13 @@ body {
     height: 100%;
 }
 
-body {
-    font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
-}
 
 .brightimg {
     border-radius: 50% !important;
     filter: brightness(50%);
 }
+
+* { font-family: sans-serif !important }
+
+
+
