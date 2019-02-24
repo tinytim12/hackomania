@@ -13,3 +13,9 @@ body {
 	border-width: 3px !important;
 	border-style: solid;
 }
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: none;
+}
