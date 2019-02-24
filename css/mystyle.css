@@ -1,15 +1,15 @@
 html,
 body {
-    width: 100%;
-    height: 100%;
+	width: 100%;
+	height: 100%;
 }
-
 
 .brightimg {
-    border-radius: 50% !important;
-    filter: brightness(50%);
+	border-radius: 50% !important;
+	filter: brightness(50%);
 }
 
-
-
-
+.border-3 {
+	border-width: 3px !important;
+	border-style: solid;
+}
